@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-09-25T12:51:42.145Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" version="21.7.4" etag="iMZu7MxC9O5E5wxxtue2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-25T13:10:22.001Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.76" etag="IXyS-Um0NHNaYivjEc8L" version="21.7.4" type="github">
   <diagram name="Page-1" id="RcgLLBFOb5c1mf_Pebtg">
-    <mxGraphModel>
+    <mxGraphModel dx="1799" dy="1388" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q40XLnO_FTYuLqz50SgC-1" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#fcfcfc&quot;&gt;Azure DevOps - Source Control&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="-981" y="-790" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="q40XLnO_FTYuLqz50SgC-2" value="&lt;font style=&quot;background-color: rgb(0, 0, 0);&quot; color=&quot;#fafafa&quot;&gt;Git Credentials&lt;/font&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/azure_stack/User_Subscriptions.svg;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="-694" width="27" height="26.21" as="geometry" />
+        </mxCell>
+        <mxCell id="q40XLnO_FTYuLqz50SgC-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.493;entryY=1.072;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FCFCFC;" edge="1" parent="1" target="q40XLnO_FTYuLqz50SgC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-952" y="-451" as="sourcePoint" />
+            <mxPoint x="-786" y="-707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q40XLnO_FTYuLqz50SgC-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-836" y="-657" as="sourcePoint" />
+            <mxPoint x="-786" y="-707" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q40XLnO_FTYuLqz50SgC-8" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FAFAFA;exitX=0.953;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1005.999" y="-680.99669" as="sourcePoint" />
+            <mxPoint x="-953.73" y="-681.39" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q40XLnO_FTYuLqz50SgC-9" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#FAFAFA;exitX=0.953;exitY=0.511;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-952.999" y="-651.60669" as="sourcePoint" />
+            <mxPoint x="-900.73" y="-652" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
